@@ -1,3 +1,5 @@
+> Per versioni più recenti di prodotto (Plone >= 6, Volto >= 16) fare riferimento a https://github.com/RedTurtle/iocomune-backend*
+
 # Design Plone Versions
 
 Repository con le versioni aggiornate delle dipendenze che servono per un sito agid creato con design.plone.policy (backend Plone) e https://github.com/italia/design-comuni-plone-theme (Frontend Volto/ReactJS).
