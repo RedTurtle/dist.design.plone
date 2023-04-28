@@ -1,4 +1,4 @@
-> Per versioni più recenti di prodotto (Plone >= 6, Volto >= 16) fare riferimento a https://github.com/RedTurtle/iocomune-backend*
+> Per versioni più recenti di prodotto (Plone >= 6, Volto >= 16) fare riferimento a https://github.com/RedTurtle/iocomune-backend
 
 # Design Plone Versions
 
